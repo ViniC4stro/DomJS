@@ -1,0 +1,16 @@
+.classe1{
+    width: 500px;
+    height: 500px;
+    border: 10px ridge black;
+}
+
+.classe2{
+    background-color: orange;
+    color: white;
+}
+
+.classe3{
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
